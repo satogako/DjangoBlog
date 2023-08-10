@@ -48,7 +48,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'cloudinary',
     'codestar',
-    'blog'
+    'django_summernote',
+    'blog',
 ]
 
 MIDDLEWARE = [
